@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "548483614621",
+    "project_id": "planitflutter-a0a14",
+    "storage_bucket": "planitflutter-a0a14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548483614621:android:1682b10805cbbd62e4d174",
+        "android_client_info": {
+          "package_name": "com.example.planit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5kCxOeUhhMqI8Hyx58bXgeX-Zm1hm5TM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548483614621:android:9788e6254ae5d215e4d174",
+        "android_client_info": {
+          "package_name": "com.yourcompany.planit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5kCxOeUhhMqI8Hyx58bXgeX-Zm1hm5TM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
