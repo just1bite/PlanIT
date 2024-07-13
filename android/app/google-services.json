@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "130420602341",
+    "project_id": "plainit",
+    "storage_bucket": "plainit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130420602341:android:2256455cb7b5b61f882b0c",
+        "android_client_info": {
+          "package_name": "com.example.fluplanit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwyR2iyiEaAfC4_CFeNIOgE_ULkyCCUbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
